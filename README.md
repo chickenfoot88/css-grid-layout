@@ -1,5 +1,5 @@
-# Учебный проект по CSS grid layout #
-#### Сраница, сверстанная с использованием css grid layout ####
+# Учебный проект по CSS Grid Layout #
+#### Страница, сверстанная с использованием css grid layout ####
 Сайт проекта: [CSS grid layout](http://adel-ismagilov.ru/lessons/css-grid-layout/)
 ##### В работе использовались: #####
 1. Task manager: [Gulp](https://gulpjs.com/)
